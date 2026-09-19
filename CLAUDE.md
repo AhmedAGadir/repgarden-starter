@@ -14,7 +14,7 @@ Use docs/project-brief.md as the scope. Distinguish confirmed decisions from pro
 
 ## Record the work
 
-Use docs/epics/ for active pieces of work. An epic describes an outcome, phases, tasks and acceptance checks. Update checkboxes only when the corresponding work and checks are complete. Record failures and checks that did not run. Keep docs/progress.md short: current stage, evidence, blockers and next step. Move completed epics to docs/archive/ and update links when they are no longer active.
+Use docs/epics/ for active pieces of work. An epic describes an outcome, phases, tasks and acceptance checks. Update checkboxes only when the corresponding work and checks are complete. Record failures and checks that did not run. Keep docs/progress.md short: current stage, evidence, blockers and next step. Keep numbered epics at their original paths, including after completion. Mark them complete in place and point progress to the next epic. Archive only superseded supporting notes, never an epic referenced by a lesson. A lesson can cover one phase of an epic; read its requested phase and stop boundary rather than assuming one lesson means the whole epic.
 
 ## Verify before claiming completion
 

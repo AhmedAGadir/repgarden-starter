@@ -24,3 +24,9 @@ Ask your agent to read the requested epic and work through it with you. Check ou
 The course links to a versioned starter download. Keep working in your own copy; you do not need to download again for every lesson. New releases do not update existing copies automatically. Never replace your project to get a newer checklist—compare the changes with your agent first.
 
 [RepGarden reference implementation](https://github.com/AhmedAGadir/repgarden) is a separate repository, currently in development. Future checkpoint tags will support recovery and comparison. Account credentials, real client data and private design links do not belong in either public repository.
+
+## How we work
+
+Each practical lesson covers an epic or a phase within one. Your agent reads the requested checklist, carries out the agreed work and ticks tasks after the checks pass. You inspect the result before confirming human checks. `docs/progress.md` records where to resume. Completed epics stay at their original paths.
+
+These starter files are generated from `course/starter/` in the reference repository. Learners edit their own copies normally; maintainers change the source templates and export a new release.

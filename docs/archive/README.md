@@ -1,3 +1,3 @@
-# Completed work
+# Archived supporting notes
 
-Move completed epics here after their acceptance checks pass. Preserve the evidence and update docs/progress.md to point to the next active epic.
+Use this folder for superseded supporting notes. Numbered epics stay at their original paths after completion so lesson prompts and links remain valid. Keep their checked tasks and evidence in place.
