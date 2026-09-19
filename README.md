@@ -13,7 +13,7 @@ Follow [Part 1](https://gadirlabs.io/learn/build-my-first-app/your-workspace-and
 - `CLAUDE.md`: shared agent instructions; `AGENTS.md` points to it.
 - `docs/project-brief.md`: the product and its scope.
 - `docs/progress.md`: current activity, evidence and blockers.
-- `docs/epics/`: actionable checklists for Parts 1 and 2.
+- `docs/epics/`: actionable checklists for Parts 1–3.
 - `docs/roadmap.md`: the outline of later work, not yet detailed lessons.
 - `docs/archive/`: completed work records.
 
